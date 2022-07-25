@@ -7,7 +7,9 @@ Test python script to deploy service in Windows 10 that will automatically scan 
 
 pip install -r requirements.txt
 
-3. Install "Auto Py to Exe" application and compile exe from python script
+3. Install "Auto Py to Exe" application and compile exe from python script:
+
+https://pypi.org/project/auto-py-to-exe/
 
 ![alt text](https://github.com/kutumin/s1_usb_scan/blob/96f053e5ce281c10419998ffabed2ee67d9e01fe/images/Screenshot%202022-07-18%20at%2016.36.08.png)
 
