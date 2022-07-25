@@ -15,7 +15,7 @@ pip install -r requirements.txt
 
 http://nssm.cc/download
 
-Screenshot 2022-07-18 at 16.38.04.png
+![alt text](https://github.com/kutumin/s1_usb_scan/blob/6d93095ec1e11d41bc7218698be737e6800eaf31/images/1.png)
 
 5. Checked and started the service (in my example the name is "S1_USB")
 6. Uploaded some samples on the USB drive and connected it for Windows 10 with an agent.
